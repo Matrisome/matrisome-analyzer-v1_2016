@@ -15,8 +15,7 @@ Input file requirements:
 
 Output file:
 
-    Once "null device 1" is displayed on the screen, and once the screen stops scrolling, go to the bottom of the webpage and click "DownloadResults".
-    The output data folder is assigned a given number and, if the input folder contained data for several samples, will contain one subfolder per sample. Each subfolder contains:
+   The output data folder is assigned a given number and, if the input folder contained data for several samples, will contain one subfolder per sample. Each subfolder contains:
        - a series of four pie charts (.jpg) representing the distribution of core matrisome, matrisome-associated and other proteins in terms of peptide abundance, number of spectra,unique peptides, and proteins
        - a tab-delimited text files summarizing the count results per matrisome divisions
        - a tab-delimited text files summarizing the count results per matrisome categories
