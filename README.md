@@ -1,6 +1,6 @@
 # matrisome-analyzer
 
-This webtool analyzes proteomic dataset for ECM content according to matrisome divisions and categories proposed by Naba and collaborators <a href="https://www.mcponline.org/article/S1535-9476(20)30479-5/fulltext">Naba et al, Mol Cell Prot, 2012</a> and calculates for components of the "matrisome": the peptide abundance, the number of spectra and number of unique peptides.
+This script analyzes proteomic datasets for ECM content according to matrisome divisions and categories proposed by Naba and collaborators <a href="https://www.mcponline.org/article/S1535-9476(20)30479-5/fulltext">Naba et al, Mol Cell Prot, 2012</a> and calculates for components of the "matrisome": the peptide abundance, the number of spectra and number of unique peptides.
 
 Input file requirements:
 
